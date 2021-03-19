@@ -24,7 +24,7 @@ dvc add data_given/winequality.csv
 git add .
 git commit -m "first commit"
 
-### online updates for readme
+### oneline updates for readme
 git add . && git commit -m "update Readme.md
 
 git remote add origin https://github.com/snar2019/MLOPS_dvcproject.git
