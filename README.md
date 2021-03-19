@@ -26,7 +26,10 @@ git add .
 git commit -m "first commit"
 
 ### oneline updates for readme
+<<<<<<< HEAD
 ```bash
+=======
+>>>>>>> b9d6a0b482eeb2f2f1de4a6ef53efe20743daece
 git add . && git commit -m "update Readme.md
 ```bash
 git remote add origin https://github.com/snar2019/MLOPS_dvcproject.git
