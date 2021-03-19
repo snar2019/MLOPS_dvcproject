@@ -20,3 +20,13 @@ git init
 dvc init
 
 dvc add data_given/winequality.csv
+
+git add .
+git commit -m "first commit"
+
+### online updates for readme
+git add . && git commit -m "update Readme.md
+
+git remote add origin https://github.com/snar2019/MLOPS_dvcproject.git
+526  git branch -M master
+527  git push -u origin master
