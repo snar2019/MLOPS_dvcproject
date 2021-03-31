@@ -36,3 +36,21 @@ git remote add origin https://github.com/snar2019/MLOPS_dvcproject.git
 git branch -M master
 git push -u origin master
 ```bash
+
+tox command 
+```bash
+tox -r 
+```
+pytest command
+```bash
+pytest -v
+```
+
+setup commands -
+pip install -e .
+```
+
+build your own commands-
+```bash
+ python setup.py sdist bdist_wheel
+```
