@@ -1,5 +1,5 @@
-import os
 
+import os
 
 dirs = [
     os.path.join("data", "raw"),
@@ -15,6 +15,7 @@ for dir_ in dirs:
         pass
 
 
+
 files = [
     "dvc.yaml",
     "params.yaml",
@@ -25,3 +26,7 @@ files = [
 for file_ in files:
     with open(file_, "w") as f:
         pass
+
+
+
+
