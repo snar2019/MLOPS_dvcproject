@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/train_and_evaluate.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/tests/test_config.py">
           <value>
             <Attribute>
